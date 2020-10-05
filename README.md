@@ -1,1 +1,2 @@
-# Data Structures and Programming
+# Spell Checker
+
