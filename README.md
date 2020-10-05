@@ -1,1 +1,1 @@
-# Data-Structures-and-Programming
+# Data Structures and Programming
